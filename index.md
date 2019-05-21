@@ -1,4 +1,5 @@
 ## Xu Yikai's Homepage
+! [text] ( /user/desktop/timg.jpg)
 ### Bio
 Im currentlly a M.S. student of [School of Data Science](http://www.sds.fudan.edu.cn/wp/) at [Fudan University](http://www.fudan.edu.cn/2016/index.html)
 
